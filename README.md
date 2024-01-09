@@ -7,8 +7,6 @@
 <p align="center">Captivated by the transformative impact of computer technology 🌐, I've been drawn to the unpredictable changes it brings. Since a young age, the evolving landscape of computer science has fueled my passion for software engineering. 🚀 I thrive on exploring new tech stacks 💻 and using them to craft innovative creations. Let's build cool stuff together! 🛠</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
 <div align="center">
@@ -35,13 +33,11 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [Keshav's workspace](http://supun.traditionalme.life)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Java, Python, React and NodeJS**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📫 How to reach me **Keshavdayal205@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
@@ -49,10 +45,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/keshav-dayal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a> -->
-<!-- <a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/keshxvdayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a> -->
 </p>
 <br>
 
