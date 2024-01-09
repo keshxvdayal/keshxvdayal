@@ -1,12 +1,12 @@
 
-![logo](supun-new.png)
+![logo](.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Keshav Dayal</h1>
 <h3 align="center">A passionate Programmer from New Delhi, India</h3>
 <p align="center">Captivated by the transformative impact of computer technology 🌐, I've been drawn to the unpredictable changes it brings. Since a young age, the evolving landscape of computer science has fueled my passion for software engineering. 🚀 I thrive on exploring new tech stacks 💻 and using them to craft innovative creations. Let's build cool stuff together! 🛠</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+<!--  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Keshav Dayal" />  -->
 </p>
 
 <div align="center">
@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [Keshav's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [Keshav's workspace](https://www.linkedin.com/in/keshav-dayal/)
 
 - 💬 Ask me about **Java, Python, React and NodeJS**
 
