@@ -118,7 +118,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![keshxvdayal's Stats](https://github-readme-stats.vercel.app/api?username=keshxvdayal&theme=react&show_icons=true&hide_border=true&count_private=false)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=keshxvdayal&theme=black-ice&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
